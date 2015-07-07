@@ -1,0 +1,21 @@
+table{
+	border-collapse: collapse;
+	outline: solid black 1px;
+	
+}
+th{
+	outline: solid black 1px;
+	padding: 5px 30px;
+	font-weight: bold;
+	text-align: left;
+}
+td{
+	outline: solid black 1px;
+	height: 30px;
+	min-width: 40px;
+	text-align: left;
+}
+tr:nth-child(5n+0){
+	background: black;
+	color: white;
+}

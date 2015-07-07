@@ -1,0 +1,21 @@
+table{
+	margin: 50px;
+	table-layout: fixed;
+}
+td{
+	outline: solid black 1px;
+	height: 26px;
+	padding: 10px;
+	text-align: left;
+	padding: 10px;
+}
+.bold{
+	font-weight: bold;
+}
+.highlight{
+	background: black;
+	color: white;
+}
+	.highlight td{
+		outline: solid white 1px;
+	}
