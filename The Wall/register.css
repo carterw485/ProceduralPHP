@@ -1,0 +1,29 @@
+.container{
+	margin-top: 50px;
+	width: 600px !important;
+}
+.button{
+	text-align: center;
+}
+.form-control{
+	margin: 0px auto 10px auto;
+}
+.form-signin-heading{
+	text-align: center !important;
+}
+.form{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: 60%;
+	margin: auto;
+}
+.errors{
+	width: 80%;
+	margin: auto;
+}
+	.errors ul{
+		list-style-type: none;
+		padding: 0px;
+	}
+

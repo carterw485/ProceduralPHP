@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+#wrapper{
+	width: 900px;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+h1{
+	font-size: 70px;
+	margin-bottom: 10px;
+}
+.error{
+	color: red;
+}
+form ul{
+	list-style-type: none;
+	text-align: left;
+	padding-left: 10%;
+}
+	form ul li{
+		font-size: 40px;
+	}
+		form ul li input{
+			margin-top: 5px;
+			vertical-align: top;
+			height: 40px;
+		}
+		form ul li .quote{
+			width: 70%;
+			height: 300px;
+		}
+		.buttons{
+			display: flex;
+		}
+		.buttons input{
+			flex: 1 1 0;
+			margin: 20px;
+		}

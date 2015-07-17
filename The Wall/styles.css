@@ -1,0 +1,50 @@
+.wrapper{
+	margin-top: 100px;
+}
+.message p{
+	text-align: right;
+}
+.message .form-control{
+	height: 100px;
+}
+.form-group h2{
+	color: white;
+	margin-right: 50px;
+	vertical-align: top;
+	margin-top: 5%;
+}
+span{
+	display: block;
+	text-align: center;
+}
+.bars{
+	margin-top: 6.2%;
+}
+.message{
+	font-size: 19px;
+	word-wrap: break-word;
+}
+.comment p{
+	text-align: right;
+}
+.blog-post{
+	border: solid blue 1px;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+.comment-box{
+	border-top: solid blue 2px;
+}
+.comments{
+	border: solid green 1px;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+.testing{
+	color: red;
+	font-weight: 900px;
+}
